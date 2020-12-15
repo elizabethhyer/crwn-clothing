@@ -1,4 +1,3 @@
-import { connect } from "react-redux";
 import CartActionTypes from "./cart.types";
 
 export const toggleCartHidden = () => ({
