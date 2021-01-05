@@ -4,7 +4,6 @@ import { connect } from "react-redux";
 import CollectionsOverviewContainer from "../../components/collections-overview/collections-overview.container";
 import CollectionPageContainer from "../collection/collection-page.container";
 import { fetchCollectionsStart } from "../../redux/shop/shop.actions";
-import { fetchCollectionsAsync } from "../../redux/shop/shop.sagas";
 
 const ShopPage = ({ fetchCollectionsStart, match }) => {
   useEffect(() => {
