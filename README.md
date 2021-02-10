@@ -5,9 +5,9 @@ CRWN Clothing is a sample e-commerce app made using create-react-app. This site 
 ## Installation
 To run this application in your local environment, please follow these steps:
 
-Clone this repository
-Run 'npm install'
-Run 'npm start'
+Clone this repository \n
+Run 'npm install' \n
+Run 'npm start' \n
 
 ## Contributing
 Bug reports and pull requests are welcome on Github at: https://github.com/elizabethhyer/crwn-clothing
