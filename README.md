@@ -11,6 +11,10 @@ To run this application in your local environment, please follow these steps:
 
 3. Run 'npm start'
 
+## Visit the hosted application
+
+https://elizabeth-crwn-live.herokuapp.com/
+
 ## Contributing
 Bug reports and pull requests are welcome on Github at: https://github.com/elizabethhyer/crwn-clothing
 
